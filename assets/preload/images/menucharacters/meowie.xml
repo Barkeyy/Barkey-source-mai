@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="meowie.png"><SubTexture name="meowie idle0000" x="0" y="0" width="2364" height="1644" frameX="0" frameY="0" frameWidth="2364" frameHeight="1644" />
+<SubTexture name="meowie idle0001" x="2364" y="0" width="2364" height="1644" frameX="0" frameY="0" frameWidth="2364" frameHeight="1644" />
+<SubTexture name="meowie idle0002" x="4728" y="0" width="2364" height="1644" frameX="0" frameY="0" frameWidth="2364" frameHeight="1644" />
+<SubTexture name="meowie idle0003" x="7092" y="0" width="2364" height="1644" frameX="0" frameY="0" frameWidth="2364" frameHeight="1644" />
+<SubTexture name="meowie idle0004" x="0" y="1644" width="2364" height="1644" frameX="0" frameY="0" frameWidth="2364" frameHeight="1644" />
+<SubTexture name="meowie idle0005" x="2364" y="1644" width="2364" height="1644" frameX="0" frameY="0" frameWidth="2364" frameHeight="1644" />
+<SubTexture name="meowie idle0006" x="4728" y="1644" width="2364" height="1644" frameX="0" frameY="0" frameWidth="2364" frameHeight="1644" />
+<SubTexture name="meowie idle0007" x="7092" y="1644" width="2364" height="1644" frameX="0" frameY="0" frameWidth="2364" frameHeight="1644" />
+</TextureAtlas>

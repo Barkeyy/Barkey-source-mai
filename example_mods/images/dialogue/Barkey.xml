@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Barkey.png"><SubTexture name="Barkey idle0000" x="0" y="0" width="1183" height="966" frameX="0" frameY="0" frameWidth="1183" frameHeight="966" />
+<SubTexture name="Barkey idle0001" x="1183" y="0" width="1183" height="966" frameX="0" frameY="0" frameWidth="1183" frameHeight="966" />
+<SubTexture name="Barkey idle0002" x="2366" y="0" width="1183" height="966" frameX="0" frameY="0" frameWidth="1183" frameHeight="966" />
+<SubTexture name="Barkey confused0000" x="3549" y="0" width="1183" height="966" frameX="0" frameY="0" frameWidth="1183" frameHeight="966" />
+<SubTexture name="Barkey confused0001" x="0" y="966" width="1183" height="966" frameX="0" frameY="0" frameWidth="1183" frameHeight="966" />
+<SubTexture name="Barkey confused0002" x="1183" y="966" width="1183" height="966" frameX="0" frameY="0" frameWidth="1183" frameHeight="966" />
+<SubTexture name="Barkey oh no0000" x="2366" y="966" width="1183" height="966" frameX="0" frameY="0" frameWidth="1183" frameHeight="966" />
+<SubTexture name="Barkey oh no0001" x="3549" y="966" width="1183" height="966" frameX="0" frameY="0" frameWidth="1183" frameHeight="966" />
+<SubTexture name="Barkey oh no0002" x="0" y="1932" width="1183" height="966" frameX="0" frameY="0" frameWidth="1183" frameHeight="966" />
+<SubTexture name="Barkey angy0000" x="1183" y="1932" width="1183" height="966" frameX="0" frameY="0" frameWidth="1183" frameHeight="966" />
+<SubTexture name="Barkey angy0001" x="2366" y="1932" width="1183" height="966" frameX="0" frameY="0" frameWidth="1183" frameHeight="966" />
+<SubTexture name="Barkey angy0002" x="3549" y="1932" width="1183" height="966" frameX="0" frameY="0" frameWidth="1183" frameHeight="966" />
+<SubTexture name="Barkey death0000" x="0" y="2898" width="1183" height="966" frameX="0" frameY="0" frameWidth="1183" frameHeight="966" />
+</TextureAtlas>

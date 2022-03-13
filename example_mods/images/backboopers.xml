@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="backboopers.png"><SubTexture name="backboopers idle0000" x="1881" y="0" width="1805" height="865" frameX="-89" frameY="-215" frameWidth="1980" frameHeight="1080" />
+<SubTexture name="backboopers idle0001" x="0" y="903" width="1840" height="882" frameX="-69" frameY="-198" frameWidth="1980" frameHeight="1080" />
+<SubTexture name="backboopers idle0002" x="0" y="0" width="1881" height="903" frameX="-44" frameY="-177" frameWidth="1980" frameHeight="1080" />
+<SubTexture name="backboopers idle0003" x="1881" y="865" width="1780" height="853" frameX="-100" frameY="-227" frameWidth="1980" frameHeight="1080" />
+</TextureAtlas>

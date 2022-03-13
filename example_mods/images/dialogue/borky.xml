@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="borky.png"><SubTexture name="borky idle0000" x="484" y="484" width="420" height="446" frameX="-59" frameY="-63" frameWidth="522" frameHeight="509" />
+<SubTexture name="borky idle0001" x="484" y="484" width="420" height="446" frameX="-59" frameY="-63" frameWidth="522" frameHeight="509" />
+
+<SubTexture name="borky idle0002" x="860" y="936" width="458" height="426" frameX="-49" frameY="-83" frameWidth="522" frameHeight="509" />
+<SubTexture name="borky idle0003" x="860" y="936" width="458" height="426" frameX="-49" frameY="-83" frameWidth="522" frameHeight="509" />
+
+<SubTexture name="borky idle0004" x="441" y="1382" width="460" height="409" frameX="-42" frameY="-100" frameWidth="522" frameHeight="509" />
+<SubTexture name="borky idle0005" x="441" y="1382" width="460" height="409" frameX="-42" frameY="-100" frameWidth="522" frameHeight="509" />
+
+<SubTexture name="borky uwu0000" x="904" y="484" width="420" height="446" frameX="-59" frameY="-63" frameWidth="522" frameHeight="509" />
+<SubTexture name="borky uwu0001" x="420" y="936" width="440" height="432" frameX="-53" frameY="-77" frameWidth="522" frameHeight="509" />
+<SubTexture name="borky uwu0002" x="0" y="1382" width="441" height="416" frameX="-49" frameY="-93" frameWidth="522" frameHeight="509" />
+<SubTexture name="borky unpibby0000" x="0" y="936" width="420" height="446" frameX="-59" frameY="-63" frameWidth="522" frameHeight="509" />
+<SubTexture name="borky unpibby0001" x="1418" y="0" width="429" height="425" frameX="-55" frameY="-84" frameWidth="522" frameHeight="509" />
+<SubTexture name="borky unpibby0002" x="0" y="484" width="484" height="452" frameX="-36" frameY="-57" frameWidth="522" frameHeight="509" />
+<SubTexture name="borky die0000" x="940" y="0" width="478" height="466" frameX="-1" frameY="-43" frameWidth="522" frameHeight="509" />
+<SubTexture name="borky die0001" x="0" y="0" width="473" height="484" frameX="0" frameY="-25" frameWidth="522" frameHeight="509" />
+<SubTexture name="borky die0002" x="473" y="0" width="467" height="467" frameX="-17" frameY="-42" frameWidth="522" frameHeight="509" />
+</TextureAtlas>

@@ -1,0 +1,10 @@
+{
+	"confirm_anim": "bark idle",
+	"idle_anim": "bark idle",
+	"position": [
+		1006,
+		621
+	],
+	"scale": 0.2,
+	"image": "bark"
+}

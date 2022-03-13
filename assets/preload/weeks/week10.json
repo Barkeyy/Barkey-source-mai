@@ -1,0 +1,49 @@
+{
+	"storyName": "holy crap double furry",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "week8",
+	"difficulties": "hard,4k",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"songs": [
+		[
+			"cuddles",
+			"meowie",
+			[
+				216,
+				73,
+				62
+			]
+		],
+		[
+			"scratches",
+			"meowie",
+			[
+				216,
+				73,
+				62
+			]
+		],
+		[
+			"scars",
+			"meowie",
+			[
+				216,
+				73,
+				62
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"meowie",
+		"bf",
+		"gf"
+	],
+	"weekName": "week10"
+}

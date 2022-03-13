@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 26,
+			"name": "sussy borky idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 26,
+			"name": "sussy borky left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 26,
+			"name": "sussy borky down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 26,
+			"name": "sussy borky up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 26,
+			"name": "sussy borky right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sussy borky",
+	"position": [
+		-240,
+		210
+	],
+	"healthicon": "sussy borky",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		170,
+		140
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

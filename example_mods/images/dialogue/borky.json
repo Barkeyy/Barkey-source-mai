@@ -1,0 +1,63 @@
+{
+	"position": [
+		-700,
+		-30
+	],
+	"dialogue_pos": "right",
+	"scale": 0.999999999999999,
+	"image": "borky",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "borky idle0000",
+			"loop_name": "borky idle"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": ":3",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "borky uwu0000",
+			"loop_name": "borky uwu"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "pibby",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "borky unpibby0000",
+			"loop_name": "borky unpibby"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "death",
+			"loop_offsets": [
+				-4,
+				0
+			],
+			"idle_name": "borky die0000",
+			"loop_name": "borky die"
+		}
+	]
+}

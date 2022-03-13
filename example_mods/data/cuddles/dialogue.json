@@ -1,0 +1,209 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "!!!!!!!!!!!!!!!!!!!!!!!!!!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "nokia"
+		},
+		{
+			"expression": "confused",
+			"text": "Eh?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "meowie"
+		},
+		{
+			"expression": "talk",
+			"text": "Hello, it's Barkey",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nokia-kalm"
+		},
+		{
+			"expression": "confused",
+			"text": "What do you want now?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "meowie"
+		},
+		{
+			"expression": "talk",
+			"text": "Show boyfriend who's boss, he's driving me insane!",
+			"boxState": "angry",
+			"speed": 0.03,
+			"portrait": "nokia-kalm"
+		},
+		{
+			"expression": "confused",
+			"text": "Boyfriend? Who the hell names themselves Boyfriend?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "meowie"
+		},
+		{
+			"expression": "confused",
+			"text": "Are you playing some sort of dirty prank on me?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "meowie"
+		},
+		{
+			"expression": "talk",
+			"text": "No, I'm DEAD serious right now.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nokia-kalm"
+		},
+		{
+			"expression": "talk",
+			"text": "What did he do to you anyways?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "meowie"
+		},
+		{
+			"expression": "talk",
+			"text": "He called me................",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nokia-kalm"
+		},
+		{
+			"expression": "talk",
+			"text": "Furry!!!!!",
+			"boxState": "angry",
+			"speed": 0.03,
+			"portrait": "nokia-kalm"
+		},
+		{
+			"expression": "wheeze",
+			"text": "*wheeze*",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "meowie"
+		},
+		{
+			"expression": "confused",
+			"text": "What does he look like?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "meowie"
+		},
+		{
+			"expression": "confused",
+			"text": "You know, 4 feet tall, blue hair, microphone always in hand?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nokia-kalm"
+		},
+		{
+			"expression": "wheeze",
+			"text": "*wheeze*",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "meowie"
+		},
+		{
+			"expression": "confused",
+			"text": "what should I do to him?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "meowie"
+		},
+		{
+			"expression": "confused",
+			"text": "Beat him in rap battle, it's the only way.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nokia-kalm"
+		},
+		{
+			"expression": "talk",
+			"text": "Whatever you say, I guess.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "meowie"
+		},
+		{
+			"expression": "talk",
+			"text": "I'll be over in just a moment.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "meowie"
+		},
+		{
+			"expression": "talk",
+			"text": "Gf?",
+			"boxState": "angry",
+			"speed": 0.03,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "There you are!",
+			"boxState": "angry",
+			"speed": 0.04,
+			"portrait": "meowie"
+		},
+		{
+			"expression": "talk",
+			"text": "So you are real!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "meowie"
+		},
+		{
+			"expression": "talk",
+			"text": "Beep!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "Not the talking type I see....",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "meowie"
+		},
+		{
+			"expression": "talk",
+			"text": "Skboop bep!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Anyways I'm meowie.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "meowie"
+		},
+		{
+			"expression": "talk",
+			"text": "I'm one of Barkey's friends and I am here to show you who's boss!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "meowie"
+		},
+		{
+			"expression": "talk",
+			"text": "You ready?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "meowie"
+		},
+		{
+			"expression": "talk",
+			"text": "Bep!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+
+		
+	]
+}

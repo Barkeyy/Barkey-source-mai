@@ -1,0 +1,31 @@
+{
+	"songs": [
+		[
+			"Furshed",
+			"possesed",
+			[
+				80,
+				80,
+				100
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "random week that only exists because I need freeplay only songs",
+	"weekName": "week9",
+	"freeplayColor": [
+		80,
+		80,
+		100
+	],
+	"hideStoryMode": true,
+	"weekBefore": "week8",
+	"startUnlocked": false
+}

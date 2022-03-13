@@ -1,0 +1,61 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "borky",
+			"boxState": "normal",
+			"expression": "death",
+			"text": "I gave you the chance to ablige but You just won't."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "borky",
+			"boxState": "normal",
+			"expression": "death",
+			"text": "Every single furry you know and love was corrupted by me"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "borky",
+			"boxState": "normal",
+			"expression": "death",
+			"text": "Your friend meowie was fixed and went under me and almost tore you to shreds, what fun!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "borky",
+			"boxState": "normal",
+			"expression": "death",
+			"text": "If you win this last battle, you'll get your friend back and I'll spare your furry friends...."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "borky",
+			"boxState": "normal",
+			"expression": "death",
+			"text": "But if you lose, borky's, bf's, and gf's souls are mine to keep, just imagine how much FUN we'll have"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "                               "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": " My friends need me now, it's now or nothing!!!!!!!!!!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "borky",
+			"boxState": "normal",
+			"expression": "death",
+			"text": "HAVE YOUR LAST BREATH, BF!"
+		}
+
+	]
+}

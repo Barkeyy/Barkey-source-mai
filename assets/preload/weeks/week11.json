@@ -1,0 +1,67 @@
+{
+	"storyName": "holy crap double furry",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week8",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"meowie",
+		"bf",
+		"gf"
+	],
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Paws-mid",
+			"angry-barkeyhate",
+			[
+				160,
+				80,
+				60
+			]
+		],
+		[
+			"Claws-mid",
+			"angry-barkeyhate",
+			[
+				160,
+				80,
+				60
+			]
+		],
+		[
+			"Fangs-mid",
+			"possesed",
+			[
+				80,
+				80,
+				100
+			]
+		],
+		[
+			"Claws-old",
+			"angry-barkeyhate",
+			[
+				160,
+				80,
+				60
+			]
+		],
+		[
+			"Fangs-old",
+			"possesed",
+			[
+				80,
+				80,
+				100
+			]
+		]
+	],
+	"weekName": "oldcrappycrapcrap"
+}

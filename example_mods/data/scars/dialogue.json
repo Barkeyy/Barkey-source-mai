@@ -1,0 +1,89 @@
+{
+	"dialogue": [
+		{
+			"expression": "mad",
+			"text": "HMpH",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "meowie"
+		},
+		{
+			"expression": "mad",
+			"text": "Barkey I need you here NOW!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "meowie"
+		},
+		{
+			"expression": "excited",
+			"text": "But-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "nokia-kalm"
+		},
+		{
+			"expression": "mad",
+			"text": "NOW!",
+			"boxState": "angry",
+			"speed": 0.03,
+			"portrait": "meowie"
+		},
+		{
+			"expression": "talk",
+			"text": "I'm Back",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "barkey"
+		},
+		{
+			"expression": "confused",
+			"text": "wh-wh-what did I miss?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "barkey"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh, hi furry.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "oh no",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "barkey"
+		},
+		{
+			"expression": "talk",
+			"text": "You've crossed the line.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "barkey-hate"
+		},
+		{
+			"expression": "talk",
+			"text": "You and your girlfriend can go die in a ditch, you guys don't desrve to live........",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "barkey-hate"
+		},
+		{
+			"expression": "talk",
+			"text": "NOW I WILL REVEAL",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "barkey-hate"
+		},
+		{
+			"expression": "talk",
+			"text": "MY TRUE POWER!!!!!",
+			"boxState": "angry",
+			"speed": 0.03,
+			"portrait": "barkey-hate"
+		}
+
+	]
+}

@@ -1,0 +1,74 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "borky",
+			"boxState": "angry",
+			"expression": "pibby",
+			"text": "....."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "borky",
+			"boxState": "angry",
+			"expression": "pibby",
+			"text": "I-I c-can't move m-m-my body"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "BRO"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "WHAT HAPPEND TO YOU, YOU'RE PIBBY NOW, CRINGE!!!!!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "borky",
+			"boxState": "angry",
+			"expression": "pibby",
+			"text": "I-I hear a voice in my head."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "borky",
+			"boxState": "angry",
+			"expression": "pibby",
+			"text": "It sounds hellish like, like the embodiemnt of the underworld is speaking to me."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "borky",
+			"boxState": "angry",
+			"expression": "pibby",
+			"text": "It's t-t-t-t-telling me to give up my body to it"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "borky",
+			"boxState": "angry",
+			"expression": "pibby",
+			"text": "I don't think I have a choice but to rap battle."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "I'm reluctant to rap again, but...."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "If it means saving a child, it's worth it"
+		}
+	]
+}

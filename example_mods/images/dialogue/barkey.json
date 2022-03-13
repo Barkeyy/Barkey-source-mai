@@ -1,0 +1,76 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		-540,
+		-270
+	],
+	"scale": 0.549999999999999,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Barkey idle",
+			"idle_name": "Barkey idle0000"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "confused",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Barkey confused",
+			"idle_name": "Barkey confused0000"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "oh no",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Barkey oh no",
+			"idle_name": "Barkey oh no0000"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "angy",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Barkey angy",
+			"idle_name": "Barkey angy0000"
+		},
+		{
+			"loop_offsets": [
+				-4,
+				0
+			],
+			"anim": "death",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Barkey death0",
+			"idle_name": "Barkey death0"
+		}
+	],
+	"image": "Barkey"
+}

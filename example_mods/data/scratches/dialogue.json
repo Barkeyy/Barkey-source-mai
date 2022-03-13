@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Beep bep skboop beep.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "mad",
+			"text": "You say you're trying to find gf?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "meowie"
+		},
+		{
+			"expression": "excited",
+			"text": "Bep!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "mad",
+			"text": "good luck with that, we've got her trapped in the basement",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "meowie"
+		},
+		{
+			"expression": "shocked",
+			"text": "...",
+			"boxState": "normal",
+			"speed": 0.08,
+			"portrait": "bf"
+		},
+		{
+			"expression": "mad",
+			"text": "WHATCHA GONNA DO ABOUT IT??",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "meowie"
+		},
+		{
+			"expression": "shocked",
+			"text": "BEEP BEP BOOP",
+			"boxState": "angry",
+			"speed": 0.04,
+			"portrait": "bf"
+		},
+		{
+			"expression": "mad",
+			"text": "Get ready, I'm not going easy on you!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "meowie"
+		},
+		{
+			"expression": "shocked",
+			"text": "SKBOOP BEP",
+			"boxState": "angry",
+			"speed": 0.03,
+			"portrait": "bf"
+		}
+	]
+}

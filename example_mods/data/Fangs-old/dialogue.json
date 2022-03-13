@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "This is your last chance",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "Barkey-hate"
+		},
+        {
+			"expression": "talk",
+			"text": "If you call me a furry one more time I-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "Barkey-hate"
+		},
+		{
+			"expression": "talk",
+			"text": "Furry!!!!!!!!!!!!!!!!",
+			"boxState": "angry",
+			"speed": 0.03,
+			"portrait": "bf"
+		},
+        {
+			"expression": "talk",
+			"text": "This time I'll banish you away, as long as I can win",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "Barkey-hate"
+		},
+        {
+			"expression": "talk",
+			"text": "And don't act like you can win",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "Barkey-hate"
+		}
+	]
+}

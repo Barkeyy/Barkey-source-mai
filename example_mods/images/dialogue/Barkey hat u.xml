@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Barkey hat u.png"><SubTexture name="Barkey hat u idle0000" x="0" y="0" width="1183" height="966" frameX="0" frameY="0" frameWidth="1183" frameHeight="966" />
+<SubTexture name="Barkey hat u idle LOOP0001" x="1183" y="0" width="1183" height="966" frameX="0" frameY="0" frameWidth="1183" frameHeight="966" />
+<SubTexture name="Barkey hat u idle LOOP0002" x="1183" y="0" width="1183" height="966" frameX="0" frameY="0" frameWidth="1183" frameHeight="966" />
+
+<SubTexture name="Barkey hat u idle LOOP0003" x="2366" y="0" width="1183" height="966" frameX="0" frameY="0" frameWidth="1183" frameHeight="966" />
+<SubTexture name="Barkey hat u idle LOOP0004" x="2366" y="0" width="1183" height="966" frameX="0" frameY="0" frameWidth="1183" frameHeight="966" />
+</TextureAtlas>

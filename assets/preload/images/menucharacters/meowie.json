@@ -1,0 +1,10 @@
+{
+	"idle_anim": "meowie idle",
+	"confirm_anim": "meowie idle",
+	"position": [
+		1018,
+		644
+	],
+	"scale": 0.25,
+	"image": "meowie"
+}

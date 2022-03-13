@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		-540,
+		-270
+	],
+	"scale": 0.549999999999999,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "meowie idle",
+			"idle_name": "meowie idle0000"
+		},
+		{
+			"anim": "confused",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "meowie confuse",
+			"idle_name": "meowie confuse0000"
+		},
+		{
+			"anim": "mad",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "meowie mad",
+			"idle_name": "meowie mad0000"
+		},
+		{
+			"anim": "wheeze",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "meowie wheeze",
+			"idle_name": "meowie wheeze0000"
+		}
+	],
+	"image": "meowie"
+}

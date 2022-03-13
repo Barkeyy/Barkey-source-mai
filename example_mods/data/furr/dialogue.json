@@ -1,0 +1,103 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*walking noises*"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "isn't it great not to be bombarded with those furries? Now we can finally have some peace and quiet!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "wait"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "borky",
+			"boxState": "angry",
+			"expression": ":3",
+			"text": ":3"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "well , we jynxed it"
+		},
+
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Let me Guess you want a rap battle and were're gonna have to spend another whole ass drama with you furries T-T."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "borky",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "N-no I wud nevert do the things barkey and Meowie did to you, I jsut wanna have some fun!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*would."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*never."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "*just."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "borky",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "SO AM I GONNA GET A RAP BATTLE OR NOT???????????????????"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "If I rap with you will you go away?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "borky",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yes. I promise uwu."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Then deal, but no more after this."
+		}
+	]
+}

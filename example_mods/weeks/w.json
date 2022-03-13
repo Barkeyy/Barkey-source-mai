@@ -1,0 +1,49 @@
+{
+	"storyName": "OMG BOrkY Real??11??!?!?!",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"borky",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"furr",
+			"funni borky",
+			[
+				65,
+				65,
+				65
+			]
+		],
+		[
+			"visions",
+			"funni borky",
+			[
+				65,
+				65,
+				65
+			]
+		],
+		[
+			"Demons",
+			"sussy borky",
+			[
+				65,
+				65,
+				65
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "w"
+}

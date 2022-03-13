@@ -1,0 +1,49 @@
+{
+	"storyName": "OwO what's this?",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "hard",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"bark",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Paws",
+			"barkeyuwu",
+			[
+				160,
+				80,
+				60
+			]
+		],
+		[
+			"Claws",
+			"angry-barkeyhate",
+			[
+				160,
+				80,
+				60
+			]
+		],
+		[
+			"Fangs",
+			"possesed",
+			[
+				80,
+				80,
+				100
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "week8"
+}

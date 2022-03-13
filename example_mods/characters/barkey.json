@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "Barkeyuwu idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Barkeyuwu right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Barkeyuwu down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Barkeyuwu up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Barkeyuwu left"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Barkeyuwu",
+	"position": [
+		-1000,
+		-300
+	],
+	"healthicon": "Barkeyuwu",
+	"flip_x": true,
+	"healthbar_colors": [
+		216,
+		101,
+		67
+	],
+	"camera_position": [
+		820,
+		630
+	],
+	"sing_duration": 4,
+	"scale": 0.3
+}

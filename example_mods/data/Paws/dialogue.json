@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"expression": "excited",
+			"text": "Beep bep skboop beep.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "angy",
+			"text": "why are you in my house??",
+			"boxState": "angry",
+			"speed": 0.03,
+			"portrait": "barkey"
+		},
+		{
+			"expression": "talk",
+			"text": "BEEPBAP BOOP BEP!!!!!!!!!!!!!!!!!!!!!!!",
+			"boxState": "angry",
+			"speed": 0.03,
+			"portrait": "bf "
+		},
+		{
+			"expression": "confused",
+			"text": "Huh?",
+			"boxState": "normal",
+			"speed": 0.03,
+			"portrait": "barkey"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh, you're that aspiring rapper I've heard about!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "barkey"
+		},
+		{
+			"expression": "talk",
+			"text": "you don't speak english I see, you're a lot less intimidating than the news reporters make you out to be.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "barkey"
+		},
+		{
+			"expression": "talk",
+			"text": "LETS DO THIS!!!!",
+			"boxState": "angry",
+			"speed": 0.03,
+			"portrait": "barkey"
+		},
+		{
+			"expression": "talk",
+			"text": "SKBOOP BEEP!!!!!!!!!!!!!!!!!!!!!!!!",
+			"boxState": "angry",
+			"speed": 0.03,
+			"portrait": "bf"
+		}
+	]
+}

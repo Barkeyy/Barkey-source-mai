@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "So what's next, Furry?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "oh no",
+			"text": "I..... AM NOT A",
+			"boxState": "normal",
+			"speed": 0.08,
+			"portrait": "barkey"
+		},
+		{
+			"expression": "angy",
+			"text": "FURRY!!!!!!!!",
+			"boxState": "angry",
+			"speed": 0.03,
+			"portrait": "barkey"
+		},
+		{
+			"expression": "talk",
+			"text": "yes you are",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "angy",
+			"text": "GET OUT NOW!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "barkey"
+		},
+		{
+			"expression": "talk",
+			"text": "Beep",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "angy",
+			"text": "OK FINE I'LL DO ANOTHER SONG",
+			"boxState": "angry",
+			"speed": 0.03,
+			"portrait": "barkey"
+		}
+	]
+}

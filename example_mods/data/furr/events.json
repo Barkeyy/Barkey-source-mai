@@ -1,0 +1,40 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "bedroom",
+		"player1": "bf",
+		"player2": "funni-borky",
+		"player3": null,
+		"events": [
+			[
+				73600,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				99200,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "barkeysplash",
+		"validScore": false,
+		"gfVersion": "nogf",
+		"bpm": 150,
+		"mania": 3,
+		"arrowSkin": "barkeynote",
+		"needsVoices": true,
+		"song": "furr"
+	}
+}
